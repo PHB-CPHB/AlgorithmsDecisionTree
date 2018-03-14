@@ -16,4 +16,9 @@ The classification should be “You could easily fail the exam” in the followi
  - **“Hand ins made in time = no“**
  - **“Attend lectures and Read textbook = no”**
  - **“Attend lectures and Make exercises = no”**
+ 
 The classification should be “You should be able to pass the exam” in all other cases
+
+I made the decsion tree like this
+
+![alt text](https://github.com/philliphb/AlgorithmsDecisionTree/edit/master/DecsionTree.png "Dexsion Tree")
