@@ -12,8 +12,8 @@ Make a decision tree for warning students.A  student  will  come  with  4  items
  
 E.g. for a nice student (yes, yes, yes, yes).
 
-- The classification should be “You could easily fail the exam” in the following cases:
+The classification should be “You could easily fail the exam” in the following cases:
  - **“Hand ins made in time = no“**
  - **“Attend lectures and Read textbook = no”**
  - **“Attend lectures and Make exercises = no”**
- - **The classification should be “You should be able to pass the exam” in all other cases**
+The classification should be “You should be able to pass the exam” in all other cases
