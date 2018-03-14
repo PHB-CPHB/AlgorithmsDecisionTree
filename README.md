@@ -21,4 +21,4 @@ The classification should be “You should be able to pass the exam” in all ot
 
 I made the decsion tree like this
 
-![alt text](https://github.com/philliphb/AlgorithmsDecisionTree/blob/master/DecsionTree.png "Dexsion Tree")
+![alt text](https://github.com/philliphb/AlgorithmsDecisionTree/blob/master/DecsionTree.png "Decsion Tree")
