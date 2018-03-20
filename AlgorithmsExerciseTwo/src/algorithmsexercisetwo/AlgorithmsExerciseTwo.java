@@ -22,7 +22,11 @@ public class AlgorithmsExerciseTwo {
         ArrayList<Student> students = new ArrayList();
         DecsionTree dt = new DecsionTree();
         for (int i = 0; i < 10; i++) {
-            Student student = new Student(ran.nextBoolean(), ran.nextBoolean(), ran.nextBoolean(), ran.nextBoolean());
+            boolean a = ran.nextBoolean();
+            boolean b = ran.nextBoolean();
+            boolean c = ran.nextBoolean();
+            boolean d = ran.nextBoolean();
+            Student student = new Student(a, b, c, d);
             students.add(student);
         }
         
